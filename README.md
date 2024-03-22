@@ -1,4 +1,4 @@
-In this project we have work to the Bank Panic Disorder Diagnosis Prediction.
+In this project we have work to the Panic Disorder Diagnosis Prediction.
 The dataset contains 50000 rows and 17 columns
 It has 3 columns consist of numerical and 14 categorical data
 Target Column(panic disorder diagnosis) is categorical so,I perform classification Machine Learning Algorithm. 
